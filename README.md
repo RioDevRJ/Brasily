@@ -17,4 +17,4 @@
 Você pode incluir o **Brasily JS** diretamente via CDN:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/brasilyjs/dist/brasily.min.js"></script>
+<script src="https://https://cdn.jsdelivr.net/gh/RioDevRJ/Brasily/brasily.min.js"></script>
